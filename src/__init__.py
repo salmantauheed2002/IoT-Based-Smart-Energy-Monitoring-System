@@ -1,0 +1,1 @@
+# Smart Extension Monitor - shared package
