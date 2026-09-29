@@ -47,7 +47,7 @@ smart-extension-monitor/
 
 ---
 
-## 🚀 Quick Start (Portfolio Demo – No Hardware Needed)
+## 🚀 Quick Start
 
 ### 1. Clone & install
 
